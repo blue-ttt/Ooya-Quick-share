@@ -5,7 +5,7 @@ const CACHE_NAME = 'oes-apps-v1';
 const urlsToCache = [
   './',
   './index.html',
-  './apple-touch-icon.png',
+  './apple-touch-icon2.png',
   './manifest.json'
 ];
 
